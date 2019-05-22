@@ -32,6 +32,10 @@ header .iconfont{
     background: #f7f7f7;
     margin-left: 2.02rem;
 }
+.show a img{
+    width: 100%;
+    height: 100%;
+}
 .baoyang{
     padding: 0 0.22rem;
     position: absolute;
@@ -503,6 +507,10 @@ header .iconfont{
     box-shadow: 0 0.04rem 0.2rem 0
     rgba(55, 223, 116, 0.75);
     border-radius: 0.3rem;
+}
+.Green  .Submit{
+    display: block;
+    width: 100%;
 }
 .Green .zitiys{
     color: #ffffff;
