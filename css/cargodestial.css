@@ -209,10 +209,11 @@ header .iconfont{
 .remark{
     padding: 0 0.22rem;
     overflow: hidden;
+    background: #f7f7f7;
 }
 .remark > .first{
     height: 3.14rem;
-    background: white;
+    background: #f7f7f7;
     padding: 0.42rem 0 0 0.25rem;
     border-bottom: 0.01rem dashed #d8dfe3;
     position: relative;
@@ -251,7 +252,7 @@ header .iconfont{
 }
 .remark > .second{
     height: 3.76rem;
-    background: white;
+    background: #f7f7f7;
     position: relative;
     padding: 0.42rem 0 0 0.25rem;
     /*background: #f7f7f7;*/
@@ -359,7 +360,7 @@ header .iconfont{
     font-size: 0.32rem;
     border-top: 0.01rem dashed #d8dfe3;
     border-bottom: 0.01rem dashed #d8dfe3;
-    background: white;
+    background: #f7f7f7;
     position: relative;
 }
 .cargomessage > span{
@@ -392,7 +393,7 @@ header .iconfont{
     padding: 0.3rem 0 0rem 0.25rem;
     /*border-top: 0.01rem dashed #d8dfe3;*/
     /*border-bottom: 0.01rem dashed #d8dfe3;*/
-    background: white;
+    background: #f7f7f7;
     position: relative;
 }
 .similarrecommand span{
@@ -420,12 +421,13 @@ header .iconfont{
     height: 5.11rem;
 }
 .shox ul{
+    background: white;
     width: 100%;
     height: 100%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
     align-content: space-around;
 }
 .shox ul li{
