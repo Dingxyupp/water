@@ -1,9 +1,12 @@
 @import "person.css";
 @import "base.css";
 .ym{
-    padding: 0.5rem 0.8rem;
-    width: auto;
-    height: 2rem;
+    /*padding: 0.5rem 0.3rem 0 0.3rem;*/
+    /*padding-left: 0.3rem;*/
+    /*padding-right: 0.3rem;*/
+    margin-top: 0.5rem;
+    height: 4.39rem;
+    width: 7.5rem;
 }
 .ym a{
     display: block;

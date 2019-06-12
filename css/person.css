@@ -67,9 +67,18 @@
 }
 .changyong span{
     display: block;
-    background: #4ebbfe;
     border-radius: 0.1rem;
     font-size: 0.3rem;
+    text-align: center;
+}
+.changyong span a{
+    color: #4ebbfe;
+    font-size: 0.46rem;
+}
+.changyong span a p{
+    margin-top: 0.18rem;
+    color: #8e9397;
+    font-size: 0.24rem;
 }
 .caozuo{
     margin: 0.50rem 0.50rem 0.7rem 0.78rem;
